@@ -17,11 +17,11 @@ HowTO:
 Configuration:
 -----------------
 
-config.php
-dbhost = ip / hostname of database server (use localhost or 127.0.0.1 for local db)
-db = name of database
-username = DB user
-password = password of DB user
+ - In config.php
+ - dbhost = ip / hostname of database server (use localhost or 127.0.0.1 for local db)
+ - db = name of database
+ - username = DB user
+ - password = password of DB user
 
 
 
